@@ -14,9 +14,11 @@ Input Format
 A single line containing a positive integer, .
 
 ## SOLUTION
-using a conditional 
+Using a conditional statement to specify the print out statement from each Category
 
-![image](https://github.com/Bumzeal/HackeRrank_Python_Solutions-/assets/78567274/d4f7a7ba-8176-40bb-9494-03102cca78d5)
+![image](https://github.com/Bumzeal/HackeRrank_Python_Solutions-/assets/78567274/80c9341c-4733-4ba9-bf49-f866d7e06d24)
+
+
 
 ## OUTPUT
 
